@@ -6,6 +6,7 @@ General
     - [Loader](/loader)
     - [Enqueue](/enqueue)
     - [Views](/views)
+    - [Templates](/templates)
 - Databases
     - [Schema](/databases/schema)
     - [Database](/databases/query)
